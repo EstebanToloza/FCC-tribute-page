@@ -1,3 +1,17 @@
 body {
-    background-color: red;
+    font-family: 'Poppins', sans-serif;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#img-caption {
+    font-weight: 200;       
 }
